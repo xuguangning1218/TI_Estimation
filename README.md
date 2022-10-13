@@ -17,7 +17,7 @@ conda env create -f TI_Estimation.yaml
 
 ### Data Preparation 
 * Download the required GridSat dataset from NOAA offical site through [here](<https://www.ncei.noaa.gov/products/gridded-geostationary-brightness-temperature> "here") and the required tropical cyclone best track dataset from NOAA offical site through [here](<https://www.ncdc.noaa.gov/ibtracs/>  "here"). 
-* Or you can download the preprocessing GridSat data from my google drive through [here](<#> "here"). Note that the tropical cyclone best track dataset is provided in folder ***data***.
+* Or you can download the preprocessing GridSat data from my google drive through [here](<#> "here"). Note that the ibtracs tropical cyclone best track dataset is provided in folder ***data***.
 
 ###  Reproducibility
 We provide one of the five runs best-validated models in [here](<#>  "here").  You can reproduce the result reported in the paper using these best-validated models.
