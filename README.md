@@ -20,7 +20,7 @@ conda env create -f TI_Estimation.yaml
 * Or you can download the preprocessing GridSat data from my google drive through [here](<#> "here"). Note that the ibtracs tropical cyclone best track dataset is provided in folder ***data***.
 
 ###  Reproducibility
-We provide one of the five runs best-validated models in [here](<#>  "here").  You can reproduce the result reported in the paper using these best-validated models.
+We provide one of the five runs best-validated models in [here](<https://drive.google.com/file/d/1-FuPp8FlvF2DLU65uzvu5ordysDUdhkC/view?usp=sharing>  "here").  You can reproduce the result reported in the paper using these best-validated models.
 
 
 ###  Source Files Description
