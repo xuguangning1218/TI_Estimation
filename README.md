@@ -1,1 +1,53 @@
-# TI_Estimation
+# TI Estimation
+
+Official source code for paper 《TFG-Net:Tropical Cyclone Intensity Estimation from a Fine-grained Perspective with the Graph Convolution Neural Network》
+
+The implementation of the FTFE module is refer to this [repostory](https://github.com/jeong-tae/RACNN-pytorch). Many thanks to the contributor [@jeong-tae](https://github.com/jeong-tae)
+
+### Overall Architecture of TFG-Net
+![image](https://github.com/xuguangning1218/TI_Estimation/blob/master/figure/model.png)
+
+### Auto Detect Fine-grained Tropical Cyclone Feature during Training Stage
+![image](https://github.com/xuguangning1218/TI_Estimation/blob/master/figure/TFG-Net_training%402x.gif)
+
+### Environment Installation
+```
+conda env create -f TI_Estimation.yaml
+```  
+
+### Data Preparation 
+* Download the required GridSat dataset from NOAA offical site through [here](<https://www.ncei.noaa.gov/products/gridded-geostationary-brightness-temperature> "here") and the required tropical cyclone best track dataset from NOAA offical site through [here](<https://www.ncdc.noaa.gov/ibtracs/>  "here"). 
+* Or you can download the preprocessing GridSat data from my google drive through [here](<#> "here"). Note that the tropical cyclone best track dataset is provided in folder ***data***.
+
+###  Reproducibility
+We provide one of the five runs best-validated models in [here](<#>  "here").  You can reproduce the result reported in the paper using these best-validated models.
+
+
+###  Source Files Description
+
+```
+-- data # dataset folder
+  -- GridSat_B1_new_npy # the GridSat data folder. You need to be downloaded from google driver 
+  -- gridsat.img.min.max.npy # the min and max value of the training GridSat dataset 
+  -- gridsat.path.ibtr.windspeed.csv # the label GridSat file with satellite images save path 
+  -- GridSat_B1_processor.ipynb # the orignal nc GridSat file processor 
+  -- GridSAT_invalid_img.ipynb # the invalid GridSat preprocessor 
+  -- ibtracs.ALL.list.v04r00.rar # the rar compression file of the IBTracs tropical cyclone best track dataset 
+-- figure # figure provider
+  -- network.png # architecture of TFG-Net model 
+  -- TFG-Net_training@2x.gif # the training stage fine-grained tropical feature captures
+-- layers # necessary layer
+  -- AttentionCrop.py # the Attention Cropper
+  -- GraphConvolution.py # the Graph Convolution
+  -- MultiHeadGAT.py # Multi Head GAT
+  -- network.py # the LS-NTP
+-- model_saver # model save path
+  -- best_validate_model.pth # best model (one of five runs). You need to be downloaded from google driver
+  -- TFG-Net.log # the training loss of the TFG-Net
+TI_Estimation.yaml # conda environment for the project
+TFG-Net.ipynb # jupyter visualized code for the TFG-Net
+```
+
+### Run
+
+When the conda environment and datasets are ready, you can train or reproduce our result by runing file `TFG-Net.ipynb`.
