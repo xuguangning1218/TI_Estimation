@@ -1,0 +1,468 @@
+INFO:root:training GridSAT-RACNN-combine-avgpool-large-graph-multihead-gat-real-5
+INFO:root:epochs [1/200]
+INFO:root:Saving Model in epoch 1
+INFO:root:cost:88s train_loss:17.167378852037878 val_loss: 14.42577737377536
+INFO:root:epochs [2/200]
+INFO:root:cost:81s train_loss:14.775887807210287 val_loss: 18.028530428486487
+INFO:root:epochs [3/200]
+INFO:root:Saving Model in epoch 3
+INFO:root:cost:82s train_loss:14.333580738160668 val_loss: 12.392107317524571
+INFO:root:epochs [4/200]
+INFO:root:Saving Model in epoch 4
+INFO:root:cost:84s train_loss:11.51936378323935 val_loss: 10.16503647835024
+INFO:root:epochs [5/200]
+INFO:root:cost:82s train_loss:11.828622802486265 val_loss: 11.037326597398327
+INFO:root:epochs [6/200]
+INFO:root:cost:82s train_loss:10.833727293867407 val_loss: 10.974389876088788
+INFO:root:epochs [7/200]
+INFO:root:cost:82s train_loss:10.40711073371453 val_loss: 10.718419444176458
+INFO:root:epochs [8/200]
+INFO:root:Saving Model in epoch 8
+INFO:root:cost:83s train_loss:9.833796268556176 val_loss: 9.894681930541992
+INFO:root:epochs [9/200]
+INFO:root:cost:81s train_loss:9.520521055392134 val_loss: 10.313771801610146
+INFO:root:epochs [10/200]
+INFO:root:Saving Model in epoch 10
+INFO:root:cost:83s train_loss:9.571951579272262 val_loss: 9.835626971337103
+INFO:root:epochs [11/200]
+INFO:root:cost:82s train_loss:9.149073356535377 val_loss: 10.483884626819242
+INFO:root:epochs [12/200]
+INFO:root:Saving Model in epoch 12
+INFO:root:cost:84s train_loss:9.36146594644562 val_loss: 8.842293124045096
+INFO:root:epochs [13/200]
+INFO:root:cost:81s train_loss:8.779219518832075 val_loss: 9.242115020751953
+INFO:root:epochs [14/200]
+INFO:root:cost:81s train_loss:8.72162530092689 val_loss: 8.925065317461568
+INFO:root:epochs [15/200]
+INFO:root:Saving Model in epoch 15
+INFO:root:cost:83s train_loss:8.642916578587478 val_loss: 8.692719151896815
+INFO:root:epochs [16/200]
+INFO:root:cost:82s train_loss:8.587788764054213 val_loss: 9.198368226328204
+INFO:root:epochs [17/200]
+INFO:root:cost:82s train_loss:8.57499500600303 val_loss: 9.18347115670481
+INFO:root:epochs [18/200]
+INFO:root:cost:82s train_loss:8.613071309841745 val_loss: 8.891909383958385
+INFO:root:epochs [19/200]
+INFO:root:Saving Model in epoch 19
+INFO:root:cost:83s train_loss:8.383174966021281 val_loss: 8.631977219735422
+INFO:root:epochs [20/200]
+INFO:root:cost:82s train_loss:8.22883626503673 val_loss: 9.410500587955598
+INFO:root:epochs [21/200]
+INFO:root:cost:82s train_loss:8.368415518504817 val_loss: 8.740999652493384
+INFO:root:epochs [22/200]
+INFO:root:Saving Model in epoch 22
+INFO:root:cost:83s train_loss:8.245303095840827 val_loss: 8.519175575625512
+INFO:root:epochs [23/200]
+INFO:root:Saving Model in epoch 23
+INFO:root:cost:84s train_loss:8.002773769502717 val_loss: 8.348635904250607
+INFO:root:epochs [24/200]
+INFO:root:Saving Model in epoch 24
+INFO:root:cost:84s train_loss:7.9054482312706424 val_loss: 8.244807581747732
+INFO:root:epochs [25/200]
+INFO:root:cost:82s train_loss:7.905485098924094 val_loss: 8.471164687987297
+INFO:root:epochs [26/200]
+INFO:root:cost:82s train_loss:7.966379851829715 val_loss: 8.791699670976207
+INFO:root:epochs [27/200]
+INFO:root:cost:82s train_loss:7.726502833327626 val_loss: 8.329912047232352
+INFO:root:epochs [28/200]
+INFO:root:cost:82s train_loss:7.721322389152961 val_loss: 8.627608007000338
+INFO:root:epochs [29/200]
+INFO:root:cost:81s train_loss:7.6000772530470435 val_loss: 8.376447954485494
+INFO:root:epochs [30/200]
+INFO:root:Saving Model in epoch 30
+INFO:root:cost:83s train_loss:7.530919361889847 val_loss: 7.991152025038196
+INFO:root:epochs [31/200]
+INFO:root:cost:82s train_loss:7.450553971577466 val_loss: 8.055340090105611
+INFO:root:epochs [32/200]
+INFO:root:cost:82s train_loss:7.358877806159539 val_loss: 8.478983217670072
+INFO:root:epochs [33/200]
+INFO:root:cost:82s train_loss:7.191991685851803 val_loss: 7.993846693346577
+INFO:root:epochs [34/200]
+INFO:root:cost:81s train_loss:7.0998889643971514 val_loss: 8.097615657314178
+INFO:root:epochs [35/200]
+INFO:root:cost:82s train_loss:6.994456423007376 val_loss: 8.242742692270587
+INFO:root:epochs [36/200]
+INFO:root:cost:81s train_loss:6.851902860936111 val_loss: 8.044696838625017
+INFO:root:epochs [37/200]
+INFO:root:Saving Model in epoch 37
+INFO:root:cost:82s train_loss:6.735856552434162 val_loss: 7.888947671459567
+INFO:root:epochs [38/200]
+INFO:root:cost:82s train_loss:6.713492025204791 val_loss: 8.218244644903368
+INFO:root:epochs [39/200]
+INFO:root:cost:82s train_loss:6.6417618805800025 val_loss: 8.47855237222487
+INFO:root:epochs [40/200]
+INFO:root:Saving Model in epoch 40
+INFO:root:cost:83s train_loss:6.5576846076221 val_loss: 7.798072691886656
+INFO:root:epochs [41/200]
+INFO:root:cost:82s train_loss:6.355434871301418 val_loss: 7.96654995026127
+INFO:root:epochs [42/200]
+INFO:root:cost:81s train_loss:6.295675564587601 val_loss: 8.082508825486705
+INFO:root:epochs [43/200]
+INFO:root:cost:81s train_loss:5.989689272593677 val_loss: 7.957224138321415
+INFO:root:epochs [44/200]
+INFO:root:cost:81s train_loss:6.074662414023547 val_loss: 7.855588220780896
+INFO:root:epochs [45/200]
+INFO:root:cost:82s train_loss:5.92522510280454 val_loss: 7.82959968813004
+INFO:root:epochs [46/200]
+INFO:root:cost:82s train_loss:5.814214791708846 val_loss: 7.8709085987460226
+INFO:root:epochs [47/200]
+INFO:root:cost:81s train_loss:5.667714386451535 val_loss: 7.9330949014233
+INFO:root:epochs [48/200]
+INFO:root:Saving Model in epoch 48
+INFO:root:cost:84s train_loss:5.848250385222396 val_loss: 7.76130497840143
+INFO:root:epochs [49/200]
+INFO:root:cost:81s train_loss:5.490408432192918 val_loss: 7.795425630384876
+INFO:root:epochs [50/200]
+INFO:root:cost:82s train_loss:5.367012272036172 val_loss: 8.400845589176301
+INFO:root:epochs [51/200]
+INFO:root:cost:82s train_loss:5.570072662539598 val_loss: 8.496679705958213
+INFO:root:epochs [52/200]
+INFO:root:Saving Model in epoch 52
+INFO:root:cost:83s train_loss:5.2370008530655525 val_loss: 7.719501941434799
+INFO:root:epochs [53/200]
+INFO:root:Saving Model in epoch 53
+INFO:root:cost:83s train_loss:5.046545183755518 val_loss: 7.71771304838119
+INFO:root:epochs [54/200]
+INFO:root:Saving Model in epoch 54
+INFO:root:cost:83s train_loss:5.025115482206267 val_loss: 7.637949974306168
+INFO:root:epochs [55/200]
+INFO:root:cost:82s train_loss:4.8842572002876095 val_loss: 7.785746897420576
+INFO:root:epochs [56/200]
+INFO:root:cost:82s train_loss:4.791363243165055 val_loss: 7.834543889568698
+INFO:root:epochs [57/200]
+INFO:root:Saving Model in epoch 57
+INFO:root:cost:83s train_loss:4.717359155174194 val_loss: 7.498262805323447
+INFO:root:epochs [58/200]
+INFO:root:cost:82s train_loss:4.541468699773152 val_loss: 7.737503528594971
+INFO:root:epochs [59/200]
+INFO:root:cost:82s train_loss:4.826281774334792 val_loss: 7.581922146581834
+INFO:root:epochs [60/200]
+INFO:root:cost:82s train_loss:4.583964911902823 val_loss: 7.613176130479382
+INFO:root:epochs [61/200]
+INFO:root:cost:82s train_loss:4.6355583822824125 val_loss: 8.035942477564658
+INFO:root:epochs [62/200]
+INFO:root:cost:82s train_loss:4.442936961243793 val_loss: 7.575164917976625
+INFO:root:epochs [63/200]
+INFO:root:cost:82s train_loss:4.301282339948949 val_loss: 7.868261614153462
+INFO:root:epochs [64/200]
+INFO:root:Saving Model in epoch 64
+INFO:root:cost:83s train_loss:4.379414265717918 val_loss: 7.377359282585882
+INFO:root:epochs [65/200]
+INFO:root:cost:81s train_loss:4.0575567299757545 val_loss: 7.602620755472491
+INFO:root:epochs [66/200]
+INFO:root:cost:82s train_loss:4.059892689309469 val_loss: 7.716521816868936
+INFO:root:epochs [67/200]
+INFO:root:cost:82s train_loss:4.0825803590014695 val_loss: 7.495487643826392
+INFO:root:epochs [68/200]
+INFO:root:cost:82s train_loss:3.8657604465639688 val_loss: 7.868060988764609
+INFO:root:epochs [69/200]
+INFO:root:cost:81s train_loss:4.03476500123497 val_loss: 7.559264398390247
+INFO:root:epochs [70/200]
+INFO:root:cost:82s train_loss:3.924282475215633 val_loss: 7.495595778188398
+INFO:root:epochs [71/200]
+INFO:root:cost:82s train_loss:3.9323005908873023 val_loss: 7.437458284439579
+INFO:root:epochs [72/200]
+INFO:root:cost:82s train_loss:3.770880309546866 val_loss: 7.503056310838269
+INFO:root:epochs [73/200]
+INFO:root:cost:82s train_loss:3.657218557063157 val_loss: 7.746992788007183
+INFO:root:epochs [74/200]
+INFO:root:Saving Model in epoch 74
+INFO:root:cost:83s train_loss:3.4422380207030754 val_loss: 7.337356428946218
+INFO:root:epochs [75/200]
+INFO:root:cost:82s train_loss:3.4690807195213753 val_loss: 7.377800310811689
+INFO:root:epochs [76/200]
+INFO:root:Saving Model in epoch 76
+INFO:root:cost:83s train_loss:3.3230673627155585 val_loss: 7.336469942523587
+INFO:root:epochs [77/200]
+INFO:root:Saving Model in epoch 77
+INFO:root:cost:83s train_loss:3.276996688144963 val_loss: 7.2694822742093
+INFO:root:epochs [78/200]
+INFO:root:cost:82s train_loss:3.2365028489895953 val_loss: 8.347060111261182
+INFO:root:epochs [79/200]
+INFO:root:cost:82s train_loss:3.642396227131045 val_loss: 7.4052906651650705
+INFO:root:epochs [80/200]
+INFO:root:Saving Model in epoch 80
+INFO:root:cost:83s train_loss:3.1576606122458855 val_loss: 7.189808261009954
+INFO:root:epochs [81/200]
+INFO:root:cost:82s train_loss:3.0636209084735655 val_loss: 7.284084012431483
+INFO:root:epochs [82/200]
+INFO:root:cost:82s train_loss:3.1196630136753485 val_loss: 7.301875591278076
+INFO:root:epochs [83/200]
+INFO:root:cost:82s train_loss:3.0685851166887983 val_loss: 7.359684498079361
+INFO:root:epochs [84/200]
+INFO:root:cost:82s train_loss:3.102907159464146 val_loss: 7.606124278037779
+INFO:root:epochs [85/200]
+INFO:root:cost:82s train_loss:3.195919496257131 val_loss: 7.2390830747542845
+INFO:root:epochs [86/200]
+INFO:root:cost:82s train_loss:2.8501575846013014 val_loss: 7.278004415573612
+INFO:root:epochs [87/200]
+INFO:root:cost:81s train_loss:2.982292047361048 val_loss: 7.620969803102555
+INFO:root:epochs [88/200]
+INFO:root:cost:82s train_loss:2.881623382490825 val_loss: 7.282957123171899
+INFO:root:epochs [89/200]
+INFO:root:cost:82s train_loss:2.9937467303702503 val_loss: 7.237102723890735
+INFO:root:epochs [90/200]
+INFO:root:Saving Model in epoch 90
+INFO:root:cost:83s train_loss:2.7653945287068686 val_loss: 7.086681104475452
+INFO:root:epochs [91/200]
+INFO:root:cost:81s train_loss:2.7788371845958677 val_loss: 7.126116029677853
+INFO:root:epochs [92/200]
+INFO:root:cost:82s train_loss:2.7695016066233316 val_loss: 8.029085251592821
+INFO:root:epochs [93/200]
+INFO:root:cost:82s train_loss:3.014696233640841 val_loss: 7.265523156812114
+INFO:root:epochs [94/200]
+INFO:root:cost:82s train_loss:2.9608824737672883 val_loss: 7.2290770007718
+INFO:root:epochs [95/200]
+INFO:root:cost:82s train_loss:2.787338671645498 val_loss: 7.198740374657415
+INFO:root:epochs [96/200]
+INFO:root:cost:82s train_loss:2.7985272446298985 val_loss: 7.2453383476503435
+INFO:root:epochs [97/200]
+INFO:root:cost:82s train_loss:2.789158974236589 val_loss: 7.199767389605122
+INFO:root:epochs [98/200]
+INFO:root:cost:81s train_loss:2.681095439244092 val_loss: 7.22532832237982
+INFO:root:epochs [99/200]
+INFO:root:cost:81s train_loss:2.5938934853406455 val_loss: 7.143880582624866
+INFO:root:epochs [100/200]
+INFO:root:cost:82s train_loss:2.700992361316836 val_loss: 7.233390469704905
+INFO:root:epochs [101/200]
+INFO:root:cost:81s train_loss:2.6959471760726554 val_loss: 7.14827097615888
+INFO:root:epochs [102/200]
+INFO:root:cost:81s train_loss:2.5275854773637727 val_loss: 7.153621104455763
+INFO:root:epochs [103/200]
+INFO:root:Saving Model in epoch 103
+INFO:root:cost:83s train_loss:2.503237867743019 val_loss: 7.0665116617756505
+INFO:root:epochs [104/200]
+INFO:root:Saving Model in epoch 104
+INFO:root:cost:83s train_loss:2.716544751229325 val_loss: 7.056858647254206
+INFO:root:epochs [105/200]
+INFO:root:Saving Model in epoch 105
+INFO:root:cost:83s train_loss:2.579533101097355 val_loss: 7.056088647534771
+INFO:root:epochs [106/200]
+INFO:root:cost:81s train_loss:3.0311110950097806 val_loss: 7.3565493245278635
+INFO:root:epochs [107/200]
+INFO:root:cost:82s train_loss:3.1654501697881434 val_loss: 7.420709994531447
+INFO:root:epochs [108/200]
+INFO:root:cost:82s train_loss:3.0257501078814997 val_loss: 7.2067700355283675
+INFO:root:epochs [109/200]
+INFO:root:Saving Model in epoch 109
+INFO:root:cost:83s train_loss:2.986147440545927 val_loss: 6.998113309183428
+INFO:root:epochs [110/200]
+INFO:root:cost:82s train_loss:2.9650052737414354 val_loss: 7.138650401946037
+INFO:root:epochs [111/200]
+INFO:root:cost:82s train_loss:2.8515426453536117 val_loss: 7.168816105011971
+INFO:root:epochs [112/200]
+INFO:root:cost:82s train_loss:2.7224772247841686 val_loss: 7.102533002053538
+INFO:root:epochs [113/200]
+INFO:root:cost:82s train_loss:2.741009954514542 val_loss: 7.2352182788233605
+INFO:root:epochs [114/200]
+INFO:root:cost:82s train_loss:2.5915774988934275 val_loss: 7.028393191675986
+INFO:root:epochs [115/200]
+INFO:root:Saving Model in epoch 115
+INFO:root:cost:84s train_loss:2.514583585708122 val_loss: 6.955662081318517
+INFO:root:epochs [116/200]
+INFO:root:Saving Model in epoch 116
+INFO:root:cost:83s train_loss:2.5974650295769295 val_loss: 6.948086830877489
+INFO:root:epochs [117/200]
+INFO:root:cost:82s train_loss:2.603333180512839 val_loss: 7.015064131829046
+INFO:root:epochs [118/200]
+INFO:root:cost:82s train_loss:2.631574756730863 val_loss: 6.978128064063288
+INFO:root:epochs [119/200]
+INFO:root:cost:81s train_loss:2.4726751238349975 val_loss: 6.9651858422064015
+INFO:root:epochs [120/200]
+INFO:root:Saving Model in epoch 120
+INFO:root:cost:84s train_loss:2.510501502975216 val_loss: 6.90215358426494
+INFO:root:epochs [121/200]
+INFO:root:Saving Model in epoch 121
+INFO:root:cost:83s train_loss:2.4310880724976704 val_loss: 6.851369703969648
+INFO:root:epochs [122/200]
+INFO:root:cost:81s train_loss:2.3292379049750846 val_loss: 6.940308217079409
+INFO:root:epochs [123/200]
+INFO:root:cost:82s train_loss:2.3741741325797103 val_loss: 6.99365222069525
+INFO:root:epochs [124/200]
+INFO:root:Saving Model in epoch 124
+INFO:root:cost:84s train_loss:2.4138772729935685 val_loss: 6.797135106978878
+INFO:root:epochs [125/200]
+INFO:root:cost:83s train_loss:2.312074779494991 val_loss: 7.016692423051404
+INFO:root:epochs [126/200]
+INFO:root:cost:82s train_loss:2.3139980023469384 val_loss: 6.896251801521547
+INFO:root:epochs [127/200]
+INFO:root:cost:81s train_loss:2.2363922343990668 val_loss: 6.917245234212568
+INFO:root:epochs [128/200]
+INFO:root:cost:82s train_loss:2.259289771560731 val_loss: 6.832234213429112
+INFO:root:epochs [129/200]
+INFO:root:cost:82s train_loss:2.1647454354821183 val_loss: 6.906714485537622
+INFO:root:epochs [130/200]
+INFO:root:cost:82s train_loss:2.210099853151213 val_loss: 6.895751537815217
+INFO:root:epochs [131/200]
+INFO:root:cost:81s train_loss:2.2681009837282384 val_loss: 6.9060154730273835
+INFO:root:epochs [132/200]
+INFO:root:cost:82s train_loss:2.435405615868607 val_loss: 7.153675217782298
+INFO:root:epochs [133/200]
+INFO:root:cost:82s train_loss:2.2705410040490994 val_loss: 6.81554191343246
+INFO:root:epochs [134/200]
+INFO:root:cost:82s train_loss:2.225739607966043 val_loss: 6.871436872789936
+INFO:root:epochs [135/200]
+INFO:root:cost:82s train_loss:2.174418576364595 val_loss: 6.937509629034227
+INFO:root:epochs [136/200]
+INFO:root:cost:82s train_loss:2.1977556963277056 val_loss: 6.972644236779982
+INFO:root:epochs [137/200]
+INFO:root:Saving Model in epoch 137
+INFO:root:cost:84s train_loss:2.1987218934346022 val_loss: 6.734257713440926
+INFO:root:epochs [138/200]
+INFO:root:cost:81s train_loss:2.185484449068705 val_loss: 6.771212608583512
+INFO:root:epochs [139/200]
+INFO:root:cost:82s train_loss:2.1911080232480677 val_loss: 6.798528563591741
+INFO:root:epochs [140/200]
+INFO:root:cost:82s train_loss:2.2349006654770394 val_loss: 6.776569551037204
+INFO:root:epochs [141/200]
+INFO:root:cost:82s train_loss:2.116826123338405 val_loss: 6.85884629526446
+INFO:root:epochs [142/200]
+INFO:root:cost:82s train_loss:2.255125180492556 val_loss: 6.906402818618282
+INFO:root:epochs [143/200]
+INFO:root:cost:82s train_loss:2.2502743994317402 val_loss: 6.991856821121708
+INFO:root:epochs [144/200]
+INFO:root:cost:82s train_loss:2.1008202797029076 val_loss: 6.756859287138908
+INFO:root:epochs [145/200]
+INFO:root:Saving Model in epoch 145
+INFO:root:cost:84s train_loss:1.9722512756905906 val_loss: 6.7189795586370655
+INFO:root:epochs [146/200]
+INFO:root:cost:82s train_loss:1.9081073931562222 val_loss: 7.4272872401822
+INFO:root:epochs [147/200]
+INFO:root:Saving Model in epoch 147
+INFO:root:cost:83s train_loss:2.0657409264789366 val_loss: 6.7187336491000265
+INFO:root:epochs [148/200]
+INFO:root:cost:82s train_loss:1.9130319221232965 val_loss: 6.758897750608383
+INFO:root:epochs [149/200]
+INFO:root:cost:82s train_loss:1.9966183455009772 val_loss: 6.76745327057377
+INFO:root:epochs [150/200]
+INFO:root:cost:82s train_loss:1.9386686629396144 val_loss: 6.738002392553514
+INFO:root:epochs [151/200]
+INFO:root:cost:82s train_loss:1.8880791160149304 val_loss: 6.721444391435193
+INFO:root:epochs [152/200]
+INFO:root:cost:82s train_loss:1.8882896047297533 val_loss: 6.76775643133348
+INFO:root:epochs [153/200]
+INFO:root:cost:82s train_loss:1.8156209970877422 val_loss: 6.724222860028667
+INFO:root:epochs [154/200]
+INFO:root:cost:82s train_loss:1.911140647360949 val_loss: 6.737815180132466
+INFO:root:epochs [155/200]
+INFO:root:cost:82s train_loss:1.8308627712048167 val_loss: 6.7644095574655845
+INFO:root:epochs [156/200]
+INFO:root:cost:82s train_loss:1.925489571036362 val_loss: 6.7781835063811275
+INFO:root:epochs [157/200]
+INFO:root:cost:82s train_loss:1.8880711696981414 val_loss: 6.72507038424092
+INFO:root:epochs [158/200]
+INFO:root:Saving Model in epoch 158
+INFO:root:cost:84s train_loss:1.9927716177653492 val_loss: 6.661884215570265
+INFO:root:epochs [159/200]
+INFO:root:Saving Model in epoch 159
+INFO:root:cost:83s train_loss:1.8205982310985163 val_loss: 6.635727882385254
+INFO:root:epochs [160/200]
+INFO:root:cost:83s train_loss:1.76410994587875 val_loss: 6.711609763483847
+INFO:root:epochs [161/200]
+INFO:root:cost:82s train_loss:1.9151858246423366 val_loss: 7.105438217040031
+INFO:root:epochs [162/200]
+INFO:root:cost:81s train_loss:2.0361509730176226 val_loss: 6.673466297887987
+INFO:root:epochs [163/200]
+INFO:root:cost:82s train_loss:1.9377556128230522 val_loss: 6.711997016783683
+INFO:root:epochs [164/200]
+INFO:root:cost:82s train_loss:1.8178711683769537 val_loss: 6.768636180508521
+INFO:root:epochs [165/200]
+INFO:root:cost:82s train_loss:1.8000795376010057 val_loss: 7.1451637514175905
+INFO:root:epochs [166/200]
+INFO:root:cost:82s train_loss:1.8313287971465568 val_loss: 6.849458094566099
+INFO:root:epochs [167/200]
+INFO:root:Saving Model in epoch 167
+INFO:root:cost:84s train_loss:1.878861485458002 val_loss: 6.630604697811988
+INFO:root:epochs [168/200]
+INFO:root:cost:82s train_loss:1.7044184731274117 val_loss: 6.681712488974294
+INFO:root:epochs [169/200]
+INFO:root:Saving Model in epoch 169
+INFO:root:cost:83s train_loss:1.712371880446023 val_loss: 6.6203733259631745
+INFO:root:epochs [170/200]
+INFO:root:cost:82s train_loss:1.794573039543338 val_loss: 6.789024583755001
+INFO:root:epochs [171/200]
+INFO:root:cost:82s train_loss:1.7713092507385626 val_loss: 6.642552852630615
+INFO:root:epochs [172/200]
+INFO:root:cost:82s train_loss:1.7021490674677904 val_loss: 6.629610430809759
+INFO:root:epochs [173/200]
+INFO:root:cost:82s train_loss:1.705253871475778 val_loss: 6.6984654241992585
+INFO:root:epochs [174/200]
+INFO:root:Saving Model in epoch 174
+INFO:root:cost:83s train_loss:1.7271516604152153 val_loss: 6.587922926872007
+INFO:root:epochs [175/200]
+INFO:root:cost:82s train_loss:1.6967842549812504 val_loss: 6.65532430525749
+INFO:root:epochs [176/200]
+INFO:root:cost:82s train_loss:1.69343534814633 val_loss: 6.647938543750394
+INFO:root:epochs [177/200]
+INFO:root:Saving Model in epoch 177
+INFO:root:cost:83s train_loss:1.6090029197010567 val_loss: 6.558591781123992
+INFO:root:epochs [178/200]
+INFO:root:cost:82s train_loss:1.6347788824298517 val_loss: 6.786326239185948
+INFO:root:epochs [179/200]
+INFO:root:cost:82s train_loss:1.678541018710873 val_loss: 6.791840045682846
+INFO:root:epochs [180/200]
+INFO:root:cost:82s train_loss:1.7275391991545515 val_loss: 6.613537234644736
+INFO:root:epochs [181/200]
+INFO:root:cost:82s train_loss:1.5738534384626683 val_loss: 6.644570012246409
+INFO:root:epochs [182/200]
+INFO:root:Saving Model in epoch 182
+INFO:root:cost:84s train_loss:1.5737351809090716 val_loss: 6.533046030229138
+INFO:root:epochs [183/200]
+INFO:root:cost:82s train_loss:1.6031173196265367 val_loss: 6.703573611474806
+INFO:root:epochs [184/200]
+INFO:root:cost:82s train_loss:1.8416706178246476 val_loss: 6.946911519573581
+INFO:root:epochs [185/200]
+INFO:root:cost:82s train_loss:1.768531433935088 val_loss: 6.71706654948573
+INFO:root:epochs [186/200]
+INFO:root:cost:82s train_loss:1.6478862229401503 val_loss: 6.621029899966333
+INFO:root:epochs [187/200]
+INFO:root:cost:82s train_loss:1.569476991164975 val_loss: 6.618382069372362
+INFO:root:epochs [188/200]
+INFO:root:cost:82s train_loss:1.5847305330803725 val_loss: 6.560903595339868
+INFO:root:epochs [189/200]
+INFO:root:cost:82s train_loss:1.6008587930260636 val_loss: 6.629318298832063
+INFO:root:epochs [190/200]
+INFO:root:cost:82s train_loss:1.6629319074677258 val_loss: 6.762899891022713
+INFO:root:epochs [191/200]
+INFO:root:cost:82s train_loss:1.7426463036033195 val_loss: 6.62140780110513
+INFO:root:epochs [192/200]
+INFO:root:Saving Model in epoch 192
+INFO:root:cost:83s train_loss:1.6462186904457528 val_loss: 6.498551599441036
+INFO:root:epochs [193/200]
+INFO:root:cost:82s train_loss:1.5807092209172442 val_loss: 6.5691765354525655
+INFO:root:epochs [194/200]
+INFO:root:cost:82s train_loss:1.5649419441455747 val_loss: 6.612430864764798
+INFO:root:epochs [195/200]
+INFO:root:cost:82s train_loss:1.5580679817897518 val_loss: 6.612184355335851
+INFO:root:epochs [196/200]
+INFO:root:cost:82s train_loss:1.5514634993018173 val_loss: 6.6643473409837295
+INFO:root:epochs [197/200]
+INFO:root:cost:82s train_loss:1.7409333639997777 val_loss: 6.7267029669977
+INFO:root:epochs [198/200]
+INFO:root:cost:82s train_loss:1.7001657553804599 val_loss: 6.575708650773572
+INFO:root:epochs [199/200]
+INFO:root:cost:82s train_loss:1.573671202349469 val_loss: 6.785732961470081
+INFO:root:epochs [200/200]
+INFO:root:cost:82s train_loss:1.5969664750060415 val_loss: 6.574116676084457
+INFO:root:Finished Training
+INFO:root:Total cost:16913s
+INFO:root:testing GridSAT-RACNN-combine-avgpool-large-graph-multihead-gat-real-5
+INFO:root:MAE in 2018:8.082435869202579
+INFO:root:MAE in 2019:8.468687727975615
+INFO:root:MAE in 2020:7.848402319391578
+INFO:root:MAE in avg:8.15904426633554
+INFO:root:testing GridSAT-RACNN-combine-avgpool-large-graph-multihead-gat-real-5
+INFO:root:RMSE in 2018:10.75922035769672
+INFO:root:RMSE in 2019:11.541330487584478
+INFO:root:RMSE in 2020:10.353054398953848
+INFO:root:RMSE in avg:10.94101202383165
+INFO:root:testing GridSAT-RACNN-combine-avgpool-large-graph-multihead-gat-real-5
+INFO:root:MAE in 2018:8.082818070318465
+INFO:root:MAE in 2019:8.469790170042618
+INFO:root:MAE in 2020:7.850897598942795
+INFO:root:MAE in avg:8.16019056332666
+INFO:root:testing GridSAT-RACNN-combine-avgpool-large-graph-multihead-gat-real-5
+INFO:root:RMSE in 2018:10.758949013551897
+INFO:root:RMSE in 2019:11.540912365378782
+INFO:root:RMSE in 2020:10.353752203711418
+INFO:root:RMSE in avg:10.940910838553938
