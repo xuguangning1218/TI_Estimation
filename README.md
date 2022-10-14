@@ -2,7 +2,7 @@
 
 Official source code for paper 《TFG-Net: Tropical Cyclone Intensity Estimation from a Fine-grained Perspective with the Graph Convolution Neural Network》
 
-The implementation of the FTFE module is referred to this [repostory](https://github.com/jeong-tae/RACNN-pytorch). Many thanks to the contributor [@jeong-tae](https://github.com/jeong-tae)
+The implementation of the FTFE module is referred to this [repository](https://github.com/jeong-tae/RACNN-pytorch). Many thanks to the contributor [@jeong-tae](https://github.com/jeong-tae)
 
 ### Overall Architecture of TFG-Net
 ![image](https://github.com/xuguangning1218/TI_Estimation/blob/master/figure/model.png)
