@@ -20,14 +20,14 @@ conda env create -f TI_Estimation.yaml
 * Or you can download the preprocessing GridSat data from my google drive through [here](<#> "here"). Note that the ibtracs tropical cyclone best track dataset is provided in folder ***data***.
 
 ###  Reproducibility
-We provide one of the five runs best-validated models in [here](<https://drive.google.com/file/d/1-FuPp8FlvF2DLU65uzvu5ordysDUdhkC/view?usp=sharing>  "here").  You can reproduce the result reported in the paper using these best-validated models.
+We provide one of the five runs best-validated models in [here](<https://drive.google.com/file/d/1-FuPp8FlvF2DLU65uzvu5ordysDUdhkC/view?usp=sharing>  "here").  You can reproduce the result reported in the paper using this best-validated model.
 
 
 ###  Source Files Description
 
 ```
 -- data # dataset folder
-  -- GridSat_B1_new_npy # the GridSat data folder. You need to be downloaded from google driver 
+  -- GridSat_B1_new_npy # the GridSat data folder. You need to download it from google driver 
   -- gridsat.img.min.max.npy # the min and max value of the training GridSat dataset 
   -- gridsat.path.ibtr.windspeed.csv # the label GridSat file with satellite images save path 
   -- GridSat_B1_processor.ipynb # the orignal nc GridSat file processor 
@@ -41,7 +41,7 @@ We provide one of the five runs best-validated models in [here](<https://drive.g
   -- GraphConvolution.py # the Graph Convolution
   -- MultiHeadGAT.py # Multi Head GAT
 -- model_saver # model save path
-  -- best_validate_model.pth # best model (one of five runs). You need to be downloaded from google driver
+  -- best_validate_model.pth # best model (one of five runs). You need to download it from google driver
   -- TFG-Net.log # the training loss of the TFG-Net
 TI_Estimation.yaml # conda environment for the project
 TFG-Net.ipynb # jupyter visualized code for the TFG-Net
