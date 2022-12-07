@@ -59,6 +59,7 @@ If you find this code or idea useful, please cite our work:
   author={Xu, Guangning and Li, Yan and Ma, Chi and Li, Xutao and Ye, Yunming and Lin, Qingquan and Huang, Zhichao and Chen, Shidong},
   JO={Engineering Applications of Artificial Intelligence},
   volume={In Press},
+  doi={https://doi.org/10.1016/j.engappai.2022.105673},
   year={2022}
 }
 ```
