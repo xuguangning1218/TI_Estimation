@@ -50,3 +50,15 @@ TFG-Net.ipynb # jupyter visualized code for the TFG-Net
 ### Run
 
 When the conda environment and datasets are ready, you can train or reproduce our result by running the file `TFG-Net.ipynb`.
+
+### Citation
+If you find this code or idea useful, please cite our work:
+```bib
+@inproceedings{xu2022TFG,
+  title={TFG-Net: Tropical Cyclone Intensity Estimation from a Fine-grained Perspective with the Graph Convolution Neural Network},
+  author={Xu, Guangning and Yan Li and Chi Ma and Xutao Li and Yunming Ye and Qingquan Lin and Zhichao Huang and Shidong Chen},
+  JO={Engineering Applications of Artificial Intelligence},
+  volume={In Press},
+  year={2022}
+}
+```
