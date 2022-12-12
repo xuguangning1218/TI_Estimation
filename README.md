@@ -56,8 +56,8 @@ If you find this code or idea useful, please cite our work:
 ```bib
 @inproceedings{xu2023TFG,
   title={TFG-Net: Tropical Cyclone Intensity Estimation from a Fine-grained Perspective with the Graph Convolution Neural Network},
-  author={Xu, Guangning and Li, Yan and Ma, Chi and Li, Xutao and Ye, Yunming and Lin, Qingquan and Huang, Zhichao and Chen, Shidong},
-  JO={Engineering Applications of Artificial Intelligence},
+  author = {Guangning Xu and Yan Li and Chi Ma and Xutao Li and Yunming Ye and Qingquan Lin and Zhichao Huang and Shidong Chen},
+  journal = {Engineering Applications of Artificial Intelligence},
   volume = {118},
   pages = {105673},
   year = {2023},
